@@ -1,2 +1,1 @@
-<xs:element name="version" type="xs:decimal"/>
 <version>1.2</version>
